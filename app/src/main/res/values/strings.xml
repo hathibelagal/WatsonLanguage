@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WatsonLanguageTutorial</string>
+
+    <string name="document_conversion_username">YOUR_USERNAME1</string>
+    <string name="document_conversion_password">YOUR_PASSWORD1</string>
+
+    <string name="language_translator_username">YOUR_USERNAME2</string>
+    <string name="language_translator_password">YOUR_PASSWORD2</string>
+
+    <string name="natural_language_understanding_username">YOUR_USERNAME3</string>
+    <string name="natural_language_understanding_password">YOUR_PASSWORD3</string>
+</resources>
